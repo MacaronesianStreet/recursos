@@ -1,0 +1,8 @@
+{
+  "name": "web-a-fondo-qa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "QA automático de web-a-fondo: abre la web en Chrome a 8 anchos y lista los fallos.",
+  "dependencies": { "puppeteer-core": "^25.17.0" }
+}
